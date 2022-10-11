@@ -64,5 +64,4 @@ public class SkillsController {
                 "<li>"+ thirdChoice+"</li>" +
                 "</ol>";
     }
-
 }
